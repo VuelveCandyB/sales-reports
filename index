@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi página Power BI</title>
+</head>
+<body>
+    <h1>¡Bienvenido a mi sitio con Power BI!</h1>
+    
+    <!-- Incrustar reporte de Power BI -->
+    <iframe width="800" height="600" src="https://app.powerbi.com/view?r=..." frameborder="0" allowFullScreen="true"></iframe>
+    
+</body>
+</html>
